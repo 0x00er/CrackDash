@@ -75,7 +75,7 @@ CrackDash is a lightweight and versatile password cracking tool designed for bla
 2. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/CrackDash.git
-```
+   ```
 ## Usage
 
 1. **Launch CrackDash:**
