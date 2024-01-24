@@ -37,7 +37,6 @@ CrackDash is a lightweight and versatile password cracking tool designed for bla
 - [rarfile](https://pypi.org/project/rarfile/) (for RAR support)
 - You need a Password List to use this Script !
 - Sample Password List: [Show](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
-- 
 ### Installation Steps
 **Linux / macOS:**
 
