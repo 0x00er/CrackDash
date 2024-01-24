@@ -36,7 +36,7 @@ CrackDash is a lightweight and versatile password cracking tool designed for bla
 - Python 3.x
 - [rarfile](https://pypi.org/project/rarfile/) (for RAR support)
 - You need a Password List to use this Script !
-- Sample Password List: [Show](https://github.com/0x00er/CrackDash/passwords.txt)
+- Sample Password List: [Show](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
 - 
 ### Installation Steps
 **Linux / macOS:**
@@ -68,7 +68,6 @@ CrackDash is a lightweight and versatile password cracking tool designed for bla
 ---
 
 **Windows:**
-```
 
 1. **Install Python:**
    - Download and install Python 3.x from [python.org](https://www.python.org/downloads/).
