@@ -43,7 +43,7 @@ CrackDash is a lightweight and versatile password cracking tool designed for bla
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/CrackDash.git
+    git clone https://github.com/0x00er/CrackDash.git
     ```
 
 2. Install dependencies:
